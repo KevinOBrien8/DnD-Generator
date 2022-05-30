@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 90vw;
+}
+
+.button {
+  background-color: red;
+}
+
+/* .charBody {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.charLabel {
+  float: left;
+}
+.charInfo {
+  width: 200px;
+  margin: 0;
+  float: right;
+} */

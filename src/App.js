@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Party, Character } from "./components";
+import { Character } from "./components";
 
 function App() {
   return (

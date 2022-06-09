@@ -28,6 +28,7 @@ body {
 .charHeader {
   margin-top: 150px;
   font-size: 45px;
+  color: #f2a172;
 }
 
 .button {
@@ -52,7 +53,7 @@ td {
 
 .eachComponent {
   text-align: center;
-  color: white;
+  color: #f2a172;
   background-color: black;
   border: 1px solid black;
   margin: 0;

@@ -23,6 +23,11 @@ export default function Character() {
       "Zach",
       "Joseph",
       "Dennis",
+      "Lenard",
+      "Chug",
+      "Martinicus",
+      "Halfdan",
+      "Andre",
     ];
 
     let titles = [
